@@ -1,0 +1,13 @@
+# My Nmap Lab
+
+## What I Learned
+
+I learned how to use Nmap to scan ports.
+
+### Commands I Used:
+1. `nmap localhost`
+2. `nmap -sV scanme.nmap.org`
+
+### Results:
+- Found port 22 open (SSH)
+- Found port 80 open (HTTP)
