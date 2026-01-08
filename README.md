@@ -33,10 +33,10 @@ I'm learning cybersecurity and this is my first hands-on lab using Nmap to scan 
 ### Basic Commands:
 ```bash
 # Scan your own computer
-nmap localhost
+`nmap localhost`
 
 # Scan with version detection
-nmap -sV localhost
+'nmap -sV localhost'
 
 # Scan a practice website (legal!)
-nmap -sV scanme.nmap.org
+'nmap -sV scanme.nmap.org'
